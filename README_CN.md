@@ -12,7 +12,7 @@
 #### 什么是NSmartProxy？<br />
 NSmartProxy是一款免费的内网穿透工具。<br />
 使用中如果有任何问题和建议，可以[点击这里加入Gitter群组](https://gitter.im/tmoonlight/NSmartProxy)和我们一起讨论。
-
+官方交流群：813170640
 ## 特点
 1. 跨平台，客户端和服务端均可运行在MacOS，Linux，Windows系统上；<br />
 2. 使用方便，配置简单；<br />
